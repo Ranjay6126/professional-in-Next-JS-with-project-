@@ -44,7 +44,7 @@ Responsive UI Project
 
 Full-stack Example Project
 
-Purpose
+Purpose / Aim
 
 The main goal of this repository is to learn Next.js professionally by building real projects and understanding best practices. It serves as both a learning resource and a portfolio of Next.js work.
 
