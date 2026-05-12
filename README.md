@@ -12,7 +12,7 @@ Next.js Fundamentals
 
 File-based Routing
 
-Components and Layouts
+Components and Layouts.
 
 Server and Client Components
 
